@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/892dbe3e-b6ec-4a70-b3d1-feae50aaa933" alt="Mahmud Hasan" width="85%" style="border-radius: 12px;" />
+  <br/><br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Mahmud+Hasan;App+and+Web+Developer;AI+Automation+Enthusiast;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
 
