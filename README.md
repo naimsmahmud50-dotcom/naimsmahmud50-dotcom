@@ -52,10 +52,31 @@ motto: "Write clean code, build with empathy."
 
 ### 🚀 Featured Projects
 
+<div align="center">
+  <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">
+    <img src="https://img.shields.io/badge/LIVE_3D_PORTFOLIO-Mahmud_Hasan_--_WebGPU_%26_Three.js-00E5FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Portfolio Live" />
+  </a>
+  <p><b>✨ Experience the immersive 3D real-time WebGPU experience: <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio</a></b></p>
+</div>
+
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🕌 Madrasah Ecosystem</h3>
+      <h3 align="center">🌌 <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">Mahmud Hasan 3D Portfolio</a></h3>
+      <p align="center">
+        <b>World-class bespoke 3D interactive portfolio featuring real-time WebGPU, Three.js shaders, and interactive project showrooms.</b>
+      </p>
+      <p align="center">
+        <code>WebGPU</code> <code>Three.js</code> <code>Next.js</code> <code>GLSL Shaders</code>
+      </p>
+      <ul>
+        <li>Interactive real-time 3D camera transitions & audio synthesis.</li>
+        <li>Bespoke project slides with direct live demos.</li>
+        <li><a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Mahmud-Hasan-3D-Portfolio"><b>💻 Source Code</b></a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🕌 <a href="https://github.com/naimsmahmud50-dotcom/Madrasha-Managemant-Softaware">Madrasah Ecosystem</a></h3>
       <p align="center">
         <b>Modern, scalable, multi-modular Islamic education management mobile application built with Flutter & Firebase.</b>
       </p>
@@ -66,6 +87,22 @@ motto: "Write clean code, build with empathy."
         <li>Interactive student & teacher management dashboards.</li>
         <li>Real-time attendance, grading, and notification engines.</li>
         <li>Smooth, responsive animations and accessible UI.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 <a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/">Student Life Circle (অগ্রযাত্রা)</a></h3>
+      <p align="center">
+        <b>Bangladesh's Premier Whole-Journey Learning & Career Platform built with Next.js 15, FastAPI, and PostgreSQL.</b>
+      </p>
+      <p align="center">
+        <code>Next.js 15</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>PWA</code>
+      </p>
+      <ul>
+        <li>Multi-tier caching, sub-1s load on mobile networks.</li>
+        <li>Interactive past papers, tuition & viva simulators.</li>
+        <li><a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Student-Life-Circle"><b>💻 Source Code</b></a></li>
       </ul>
     </td>
     <td width="50%">
