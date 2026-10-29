@@ -53,16 +53,16 @@ motto: "Write clean code, build with empathy."
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">
+  <a href="https://naimsmahmud50-dotcom.github.io/">
     <img src="https://img.shields.io/badge/LIVE_3D_PORTFOLIO-Mahmud_Hasan_--_WebGPU_%26_Three.js-00E5FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Portfolio Live" />
   </a>
-  <p><b>✨ Experience the immersive 3D real-time WebGPU experience: <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio</a></b></p>
+  <p><b>✨ Experience the immersive 3D real-time WebGPU experience: <a href="https://naimsmahmud50-dotcom.github.io/">naimsmahmud50-dotcom.github.io</a></b></p>
 </div>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌌 <a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/">Mahmud Hasan 3D Portfolio</a></h3>
+      <h3 align="center">🌌 <a href="https://naimsmahmud50-dotcom.github.io/">Mahmud Hasan 3D Portfolio</a></h3>
       <p align="center">
         <b>World-class bespoke 3D interactive portfolio featuring real-time WebGPU, Three.js shaders, and interactive project showrooms.</b>
       </p>
@@ -72,7 +72,7 @@ motto: "Write clean code, build with empathy."
       <ul>
         <li>Interactive real-time 3D camera transitions & audio synthesis.</li>
         <li>Bespoke project slides with direct live demos.</li>
-        <li><a href="https://naimsmahmud50-dotcom.github.io/Mahmud-Hasan-3D-Portfolio/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Mahmud-Hasan-3D-Portfolio"><b>💻 Source Code</b></a></li>
+        <li><a href="https://naimsmahmud50-dotcom.github.io/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Mahmud-Hasan-3D-Portfolio"><b>💻 Source Code</b></a></li>
       </ul>
     </td>
     <td width="50%">
