@@ -31,7 +31,7 @@ motto: "Write clean code, build with empathy."
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 #### 📱 Mobile & Frontend
 <p align="left">
@@ -43,14 +43,14 @@ motto: "Write clean code, build with empathy."
   <img src="https://skillicons.dev/icons?i=firebase,python,nodejs,postgres,sqlite&theme=dark" />
 </p>
 
-#### 🧰 Tools & DevOps
+####  Tools & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
   <a href="https://naimsmahmud50-dotcom.github.io/">
@@ -72,11 +72,11 @@ motto: "Write clean code, build with empathy."
       <ul>
         <li>Interactive real-time 3D camera transitions & audio synthesis.</li>
         <li>Bespoke project slides with direct live demos.</li>
-        <li><a href="https://naimsmahmud50-dotcom.github.io/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Mahmud-Hasan-3D-Portfolio"><b>💻 Source Code</b></a></li>
+        <li><a href="https://naimsmahmud50-dotcom.github.io/"><b> Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Mahmud-Hasan-3D-Portfolio"><b> Source Code</b></a></li>
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">🕌 <a href="https://github.com/naimsmahmud50-dotcom/Madrasha-Managemant-Softaware">Madrasah Ecosystem</a></h3>
+      <h3 align="center"> <a href="https://github.com/naimsmahmud50-dotcom/Madrasha-Managemant-Softaware">Madrasah Ecosystem</a></h3>
       <p align="center">
         <b>Modern, scalable, multi-modular Islamic education management mobile application built with Flutter & Firebase.</b>
       </p>
@@ -92,7 +92,7 @@ motto: "Write clean code, build with empathy."
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎓 <a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/">Student Life Circle (অগ্রযাত্রা)</a></h3>
+      <h3 align="center"> <a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/">Student Life Circle (অগ্রযাত্রা)</a></h3>
       <p align="center">
         <b>Bangladesh's Premier Whole-Journey Learning & Career Platform built with Next.js 15, FastAPI, and PostgreSQL.</b>
       </p>
@@ -102,7 +102,7 @@ motto: "Write clean code, build with empathy."
       <ul>
         <li>Multi-tier caching, sub-1s load on mobile networks.</li>
         <li>Interactive past papers, tuition & viva simulators.</li>
-        <li><a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/"><b>🚀 Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Student-Life-Circle"><b>💻 Source Code</b></a></li>
+        <li><a href="https://naimsmahmud50-dotcom.github.io/Student-Life-Circle/"><b> Live Demo</b></a> | <a href="https://github.com/naimsmahmud50-dotcom/Student-Life-Circle"><b>💻 Source Code</b></a></li>
       </ul>
     </td>
     <td width="50%">
